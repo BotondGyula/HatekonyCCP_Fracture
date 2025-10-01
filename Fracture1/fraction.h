@@ -5,6 +5,8 @@
 
 //sajnos konzisztensen rosszul numenatort írtam, numerator helyett, csak a végén vettem észre. 
 
+//teszt
+
 class Fraction
 {
 public:

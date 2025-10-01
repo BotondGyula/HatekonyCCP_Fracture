@@ -10,6 +10,8 @@ int main()
     Fraction f3 = f1 + f2;
     
     std::cout << f3 << std::endl;*/
+
+    //teszt
     
 }
 
