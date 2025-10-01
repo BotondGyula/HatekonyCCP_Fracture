@@ -5,7 +5,7 @@
 #include <cmath> 
 #include <sstream>
 
-
+//comment
 Fraction::Fraction(const int numerator, const int denominator)
 	: numenator{ numerator }
 	, denominator{denominator }
